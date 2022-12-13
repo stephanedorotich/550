@@ -1,0 +1,37 @@
+---
+nocite: "[@*]"
+references:
+- author:
+  - family: Wankhade
+    given: Mayur
+  - family: Rao
+    given: Annavarapi
+  - family: Kulkarni
+    given: Chaitanya
+  id: mw2022
+  issued: 2022
+  container-title: Artificial Intelligence Review
+  publisher: Artificial Intelligence Review
+  page: 5731–5780
+  title: A survey on sentiment analysis methods, applications, and challenges
+  type: article-journal
+  DOI: 10.1007/s10462-022-10144-1
+  URL: https://link.springer.com/article/10.1007/s10462-022-10144-1#citeas
+- author:
+  - family: Mantyla
+    given: Mika
+  - family: Graziotin
+    given: Daniel
+  - family: Kuutila
+    given: Miikka
+  id: mm2017
+  issued: 2017
+  container-title: Computer Science Review
+  page: 16-32
+  title: The evolution of sentiment analysis - A review of research topics, venus, and top cited papers
+  type: article-journal
+  DOI: 10.1016/j.cosrev.2017.10.002
+  URL: https://www.sciencedirect.com/science/article/pii/S1574013717300606?via%3Dihub
+---
+
+M. Wankhade, A. C. Rao, and C. Kulkarni, “A survey on sentiment analysis methods, applications, and challenges,” Artificial Intelligence Review, vol. 55, no. 7, pp. 5731–5780, 2022. 
