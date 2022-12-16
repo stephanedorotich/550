@@ -32,6 +32,48 @@ references:
   type: article-journal
   DOI: 10.1016/j.cosrev.2017.10.002
   URL: https://www.sciencedirect.com/science/article/pii/S1574013717300606?via%3Dihub
+- author:
+  - family: Shen
+    given: Han-Ping
+  - family: Wu
+    given: Chung-Hsien
+  - family: Tsai
+    given: Pei-Shan
+  id: hs2015
+  issued: 2015
+  container-title: ACM transactions on Asian and low-resource language information processing
+  page: 1-24
+  title: Model Generation of Accented Speech using Model Transformation and Verficiation for Bilingual Speech Recognition
+  type: article-journal
+  DOI: 10.1145/2661637
+  URL: https://dl.acm.org/doi/10.1145/2661637
+- author:
+  - family: Thiel
+    given: Kilian
+  id: kt2016
+  issued: 2016
+  container-title: KNIME
+  title: Sentiment Analysis with N-Grams
+  type: website
+  URL: https://www.knime.com/blog/sentiment-analysis-with-n-grams
+- author:
+  - family: Heap
+    given: Bradford
+  - family: Bain
+    given: Michael
+  - family: Wobcke
+    given: Wayne
+  - family: Krzywicki
+    given: Alfred
+  - family: Schmeidl
+    given: Susanne
+  id: bh2017
+  issued: 2017
+  container-title: arXiv
+  title: Word Vector Enrichment of Low Frequency Words in the Bag-of-Words Model for Short Text Multi-class Classification Problems
+  type: article
+  DOI: 10.48550/arXiv.1709.05778
+  URL: https://doi.org/10.48550/arXiv.1709.05778
 ---
 
 M. Wankhade, A. C. Rao, and C. Kulkarni, “A survey on sentiment analysis methods, applications, and challenges,” Artificial Intelligence Review, vol. 55, no. 7, pp. 5731–5780, 2022. 
